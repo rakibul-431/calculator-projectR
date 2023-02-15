@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    text-align:center;
+}
+.holepage{
+    margin: 0 auto;
+    max-width:350px;
+    text-align:center;
+    margin-top:10px;
+    box-shadow:0 8px 12px 0 rgba(0,0,0,0.2);
+    transition:o.3s;
+    font-size:0;
+}
+.holepage:hover{
+    box-shadow:0 16px 32px 0 rgba(0,0,0,0.2);
+    
+}
+.headsection #rakib{
+    width:335px;
+    height:100px;
+    font-size:34px;
+    font-weight:bold;
+    text-align:right;
+    padding:0 3px;
+    letter-spacing:2px;
+}
+.btn{
+    width:87px;
+    height:70px;
+    font-size:bold;
+    font-size:16px;
+    background-color:#1F2326;
+    color:white;
+}
+.btn-style{
+    background-color:#5F4BB6;
+}
+
+.btn:hover{
+    background-color:pink;
+}
